@@ -1,5 +1,6 @@
 ## Hi my name is Onyinye 👋
 #### **I am a data analyst**
+##### **https://www.linkedin.com/in/onyinyee**
 <!--
 **Onyinyeee-Cloud/Onyinyeee-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
